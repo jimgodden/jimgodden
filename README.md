@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jimgodden
-- 👀 I’m interested in becoming an Azure Administrator.
-- 🌱 I’m currently learning how to move a variety of services to the cloud.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in building up my scripting skills
+- 🌱 I’m currently working as an Network Support Engineer
+- 💞️ I’m looking to collaborate on any PowerShell automation
 
 <!---
 jimgodden/jimgodden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

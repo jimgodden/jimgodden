@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimgodden
 - 👀 I’m interested in building up my scripting skills
-- 🌱 I’m currently working as an Network Support Engineer
+- 🌱 I’m currently working as an Azure Networking Support Engineer
 - 💞️ I’m looking to collaborate on any PowerShell automation
 
 <!---

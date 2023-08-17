@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jimgodden
-- 👀 I’m interested in building up my scripting skills
-- 🌱 I’m currently working as an Azure Networking Support Engineer
-- 💞️ I’m looking to collaborate on any PowerShell automation
+https://www.linkedin.com/in/james-godden/
 
 <!---
 jimgodden/jimgodden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
